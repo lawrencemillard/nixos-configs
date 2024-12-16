@@ -2,7 +2,7 @@
 
 ### Completed 🎉
 
-- [x] **AGS** - Add system(+)
+- [x] **AGS** - Add system(+)+ goon
 - [x] **Hyprland** - Custom & dynamic colors
 - [x] **System-wide dynamic colors** - Background, text, accent, overlay, secondary text
 - [x] **Anyrun** - Custom dynamic colors
